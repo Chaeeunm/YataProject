@@ -56,6 +56,10 @@
 ![Untitled-2023-01-27-0035.excalidraw.svg](readME_Images%2FUntitled-2023-01-27-0035.excalidraw.svg)
 <br><br>
 
+<br><br>
+## 📌 서비스 메뉴얼
+[YATA 서비스 매뉴얼 🚀](https://github.com/codestates-seb/seb41_main_021/files/10608938/21-main.pdf)
+
 ## 📌 커밋 규칙 
 |이름|내용|
 |:--:|:--:|
